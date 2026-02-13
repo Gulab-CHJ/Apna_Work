@@ -95,7 +95,7 @@ body {
 }
 
 .portfolio {
-  background-image: url("../images/imagep.jpg");
+  background-image: url("/public/image/imagep.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   margin-top: 10px;
@@ -181,7 +181,7 @@ body {
   width: 50%;
   height: 90%;
   border-radius: 20%;
-  background-image: url("../images/gulab2.png");
+  background-image: url("/public/image/gulab2.png");
   background-size: cover;
   position: relative;
 
